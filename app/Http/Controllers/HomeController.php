@@ -31,7 +31,7 @@ class HomeController extends Controller
         $data->phone->$request->phone;
         $data->comment-$request->comment;
         $data->status="in progress";
-        // $data->;
+
         $data->save();
         // return redirect()->back();
         }

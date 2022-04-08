@@ -41,7 +41,9 @@
 
 </head>
 <body class="barber_version">
+<x-app-layout>
 
+</x-app-layout>
     <!-- LOADER -->
     <div id="preloader">
         <div class="cube-wrapper">
